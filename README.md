@@ -28,6 +28,5 @@ This project focuses on understanding React basics, components, props, and UI bu
 - **Vite**
 - **Tailwind CSS**
 - **JavaScript (ES6+)**
-- 
 
 
